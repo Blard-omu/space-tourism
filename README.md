@@ -2,13 +2,21 @@
 
 ### How to use
 - clone the repository
-```git clone https://github.com/Blard-omu/space-tourism.git```
+```
+git clone https://github.com/Blard-omu/space-tourism.git
+```
 
 - navigate to space-tourism directory
-```cd space-tourism```
+```
+cd space-tourism
+```
 
 - install all dependencies
-```npm install```
+```
+npm install
+```
 
 - run dev server
-```npm run dev```
+```
+npm run dev
+```
